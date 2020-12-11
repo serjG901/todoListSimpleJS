@@ -1,4 +1,4 @@
 # todoListSimpleJS
-just todo list based on clear js, html, css. Storage - local.
+just todo list based on js, html, css. Storage - local.
 
 https://serjg901.github.io/todoListSimpleJS/
