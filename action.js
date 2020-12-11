@@ -1,7 +1,7 @@
 ﻿const templateNameApp = (name) =>
     `<a 
         class="header-name" 
-        href="todoList.html"
+        href="index.html"
     >
         ${name}
     </a>`;
