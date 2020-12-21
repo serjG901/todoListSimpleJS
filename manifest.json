@@ -1,6 +1,6 @@
 {
   "short_name": "my_todo_list",
-  "name": "my_todo_list - creating a todos and saving in your device",
+  "name": "my_todo_list - creating todos and saving in your device",
   "icons": [
     {
       "src": "favicon.ico",
