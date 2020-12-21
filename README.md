@@ -1,4 +1,7 @@
-# todoListSimpleJS
-just todo list based on js, html, css. Storage - local.
+# my_todo_list
 
-https://serjg901.github.io/todoListSimpleJS/
+creating todos and saving in your device
+
+try it https://serjg901.github.io/todoListSimpleJS/
+
+based on js, html, css. Storage - local.
